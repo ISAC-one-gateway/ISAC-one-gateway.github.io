@@ -1,0 +1,81 @@
+---
+title: "ISAC One Gateway"
+---
+
+# Welcome
+
+ISAC One Gateway is a peoject. 
+
+# Latest Press release
+
+Japan-Montreal Civic Tech Innovators Win Prestigious Award at Taiwan's Presidential Hackathon
+
+International Team Yadokari receives the 2026 Team of Excellence distinction for Mimi, an AI-powered solution designed to make government services more accessible.
+
+November 5, 2026 
+
+An international team of civic technology innovators, including members of the Civic Tech Montréal and Japan communities, has been named a Team of Excellence at the 2026 Taiwan Presidential Hackathon International Track, one of Taiwan's flagship government-backed innovation competitions.
+
+Known as Team Yadokari, the group brings together civic hackers, developers, and innovators from Canada and Japan.
+Their award-winning project, Mimi, uses artificial intelligence to help people navigate complex government programs and discover public benefits, subsidies, and services potentially available to them.
+
+The competition attracted 226 registered teams worldwide, with 125 eligible entries and only eight teams advancing to the international final.
+
+The 2026 competition, organized under the guidance of Taiwan's Presidential Office and the Executive Yuan, focused on Digital Inclusion in the AI Era, recognizing innovative solutions that make digital technologies and public services more accessible.
+
+### Making government services accessible to everyone
+
+Despite the digital transformation of governments worldwide, accessing public services remains difficult for many citizens, particularly older adults and individuals facing digital barriers.
+
+Complex eligibility rules, fragmented government websites, and unfamiliar digital interfaces can prevent people from accessing support programs designed to help them.
+
+Mimi was developed to address this challenge.
+
+Through accessible AI-powered interfaces, including telephone-based interactions and interactive kiosks, Mimi helps users explore government benefits and support programs using natural language.
+
+Rather than requiring citizens to navigate complicated administrative systems, Mimi aims to bring government information directly to people through familiar and accessible channels.
+
+The project incorporates AI technologies and computational policy tools to help users better understand the programs and assistance for which they may qualify.
+
+### A victory for international civic collaboration
+
+The Yadokari project demonstrates the potential of international collaboration between civic technology communities, researchers, and developers.
+
+The initiative has benefited from the expertise, ideas, and support of members of Civic Tech Montréal and Civic Tech members of Japan, a citizen-driven community dedicated to using technology and collective intelligence to address public challenges.
+
+Inspired by international civic technology movements such as Taiwan's g0v, Civic Tech movements bring together individuals from diverse professional and academic backgrounds who share an interest in improving public institutions and services through open collaboration.
+
+The project also illustrates the emerging role of human-AI collaboration in innovation, with generative AI systems supporting aspects of the team's design, development, and problem-solving processes.
+
+Proposed quotation   PERSON X
+
+"This recognition demonstrates what becomes possible when citizens, researchers, and developers collaborate across borders to address real public problems.
+Mimi was built on a simple belief: people should not have to become experts in government bureaucracy or digital technologies to access the support they need.
+We want public services to become more accessible, more inclusive, and more human."
+
+### Recognition at the highest level of Taiwan's government
+
+The Presidential Hackathon International Track was established in 2019 to encourage technological solutions to social and public-sector challenges.
+
+The competition is supported by Taiwan's Presidential Office, organized by the Executive Yuan, and administered by the Ministry of Digital Affairs.
+
+Teams of Excellence are invited to participate in an official visit to Taiwan, with opportunities to present their projects at the Presidential Office and engage with potential government and private-sector partners.
+
+The 2026 awards ceremony is tentatively scheduled for December.
+
+For Team Yadokari, this international recognition represents an important step toward exploring new partnerships, evaluating practical deployment opportunities, and advancing the development of inclusive AI-enabled public services.
+
+### About Team Yadokari
+
+Team Yadokari is an international civic technology collaboration bringing together contributors from Canada and Japan.
+The team develops human-centered technology solutions aimed at making government services and public support programs more accessible.
+
+Its flagship project, Mimi, explores how artificial intelligence, conversational interfaces, and computational policy systems can reduce barriers between citizens and public institutions.
+
+Official announcement:
+
+* https://x.com/TaiwanHackathon/status/2117924790245941328
+
+Competition website:
+
+* https://presidential-hackathon.taiwan.gov.tw/en/international-track/

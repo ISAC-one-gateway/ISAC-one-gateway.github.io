@@ -1,0 +1,81 @@
+---
+title: "ISAC One Gateway"
+---
+
+# Bienvenue
+
+ISAC One Gateway est un projet.
+
+# Dernier communiqué de presse
+
+Des innovateurs japonais et montréalais en technologies civiques remportent un prestigieux prix au Hackathon présidentiel de Taïwan
+
+L’équipe internationale Yadokari reçoit la distinction « Équipe d’excellence 2026 » pour Mimi, une solution basée sur l’intelligence artificielle conçue pour rendre les services gouvernementaux plus accessibles.
+
+5 novembre 2026
+
+Une équipe internationale d’innovateurs en technologies civiques, composée notamment de membres des communautés de Civic Tech Montréal et du Japon, a été désignée Équipe d’excellence lors du volet international du Hackathon présidentiel de Taïwan 2026, l’une des principales compétitions d’innovation soutenues par le gouvernement taïwanais.
+
+Connue sous le nom de Team Yadokari, l’équipe réunit des acteurs de l’innovation civique, des développeurs et des innovateurs du Canada et du Japon.
+Son projet primé, Mimi, utilise l’intelligence artificielle pour aider les citoyens à s’orienter dans des programmes gouvernementaux complexes et à découvrir les prestations publiques, les subventions et les services auxquels ils pourraient avoir droit.
+
+La compétition a attiré 226 équipes inscrites à travers le monde, dont 125 candidatures admissibles, et seulement huit équipes ont accédé à la finale internationale.
+
+L’édition 2026 de la compétition, organisée sous la supervision du Bureau présidentiel de Taïwan et du Yuan exécutif, était consacrée à l’inclusion numérique à l’ère de l’intelligence artificielle. Elle a récompensé des solutions innovantes visant à rendre les technologies numériques et les services publics plus accessibles.
+
+### Rendre les services gouvernementaux accessibles à tous
+
+Malgré la transformation numérique des gouvernements à travers le monde, l’accès aux services publics demeure difficile pour de nombreux citoyens, en particulier les personnes âgées et celles qui rencontrent des obstacles dans l’utilisation des outils numériques.
+
+La complexité des critères d’admissibilité, la fragmentation des sites Web gouvernementaux et le manque de familiarité avec les interfaces numériques peuvent empêcher les citoyens d’accéder aux programmes de soutien conçus pour les aider.
+
+Mimi a été développée pour répondre à ce défi.
+
+Grâce à des interfaces accessibles reposant sur l’intelligence artificielle, notamment des interactions par téléphone et des bornes interactives, Mimi aide les utilisateurs à découvrir les prestations gouvernementales et les programmes d’aide en utilisant le langage naturel.
+
+Plutôt que d’obliger les citoyens à naviguer dans des systèmes administratifs complexes, Mimi vise à leur fournir directement les informations gouvernementales par des moyens familiers et accessibles.
+
+Le projet intègre des technologies d’intelligence artificielle et des outils de politiques publiques computationnelles afin d’aider les utilisateurs à mieux comprendre les programmes et les aides auxquels ils pourraient être admissibles.
+
+### Une victoire pour la collaboration civique internationale
+
+Le projet Yadokari illustre le potentiel de la collaboration internationale entre les communautés des technologies civiques, les chercheurs et les développeurs.
+
+Cette initiative a bénéficié de l’expertise, des idées et du soutien de membres de Civic Tech Montréal et de Civic Tech Japan, une communauté citoyenne qui se consacre à l’utilisation des technologies et de l’intelligence collective pour relever les défis de société.
+
+Inspirés par des mouvements internationaux de technologies civiques tels que g0v à Taïwan, les mouvements Civic Tech rassemblent des personnes issues de divers horizons professionnels et universitaires qui partagent le même intérêt pour l’amélioration des institutions et des services publics grâce à la collaboration ouverte.
+
+Le projet illustre également le rôle émergent de la collaboration entre humains et intelligence artificielle dans l’innovation, les systèmes d’IA générative contribuant à différents aspects des processus de conception, de développement et de résolution de problèmes de l’équipe.
+
+Citation proposée   PERSON X
+
+« Cette reconnaissance démontre ce qu’il est possible d’accomplir lorsque des citoyens, des chercheurs et des développeurs collaborent au-delà des frontières pour répondre à de véritables problèmes publics.
+Mimi repose sur une conviction simple : les citoyens ne devraient pas avoir à devenir des experts de la bureaucratie gouvernementale ou des technologies numériques pour accéder à l’aide dont ils ont besoin.
+Nous souhaitons rendre les services publics plus accessibles, plus inclusifs et plus humains. »
+
+### Une reconnaissance au plus haut niveau du gouvernement taïwanais
+
+Le volet international du Hackathon présidentiel a été créé en 2019 afin d’encourager le développement de solutions technologiques aux défis sociaux et aux enjeux du secteur public.
+
+La compétition bénéficie du soutien du Bureau présidentiel de Taïwan, est organisée par le Yuan exécutif et administrée par le ministère des Affaires numériques.
+
+Les équipes distinguées comme Équipes d’excellence sont invitées à participer à une visite officielle à Taïwan. Elles ont notamment l’occasion de présenter leurs projets au Bureau présidentiel et d’échanger avec des partenaires potentiels des secteurs public et privé.
+
+La cérémonie de remise des prix 2026 est provisoirement prévue en décembre.
+
+Pour Team Yadokari, cette reconnaissance internationale représente une étape importante pour explorer de nouveaux partenariats, évaluer les possibilités de mise en œuvre concrète et faire progresser le développement de services publics inclusifs reposant sur l’intelligence artificielle.
+
+### À propos de Team Yadokari
+
+Team Yadokari est une collaboration internationale en technologies civiques qui rassemble des contributeurs du Canada et du Japon.
+L’équipe développe des solutions technologiques centrées sur l’humain afin de rendre les services gouvernementaux et les programmes d’aide publique plus accessibles.
+
+Son projet phare, Mimi, explore comment l’intelligence artificielle, les interfaces conversationnelles et les systèmes computationnels d’analyse des politiques publiques peuvent réduire les obstacles entre les citoyens et les institutions publiques.
+
+Annonce officielle :
+
+* https://x.com/TaiwanHackathon/status/2117924790245941328
+
+Site Web de la compétition :
+
+* https://presidential-hackathon.taiwan.gov.tw/en/international-track/

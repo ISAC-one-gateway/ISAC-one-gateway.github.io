@@ -1,0 +1,34 @@
+---
+title: "ISAC Engine"
+---
+
+# Founding Concept v0.1
+
+One Gateway, Many Trusted Services.
+Turning collective knowledge into real-world action.
+
+## PURPOSE
+
+The ISAC One Gateway Project is an international civic-tech initiative to build a shared life navigation infrastructure: a companion system that helps people move from "I don't know what to do" to one achievable next step.
+
+Digital services, public information, civic-tech tools, and support organizations are multiplying. 
+Yet more services also mean more entry points. 
+People can still become lost between websites, applications, offices, professionals, and communities. 
+We are not creating one more service. 
+We are creating one understandable gateway to many trusted services.
+
+## FOUNDING PRINCIPLES
+
+1.  No dead ends.
+    Mimi may not solve every problem, but it should never end with "you are on your own." 
+    It should help identify the next safe path.
+2.  Connect, don't replace.
+    AI should help people reach trusted public services, civic-tech tools, communities, professionals, and supporters--not make every decision on their behalf.
+3.  Open participation, trusted review.
+    Contribution should be broad.
+    Knowledge, prompts, and components distributed as trusted ISAC One Gateway resources should pass appropriate review.
+4.  Shared core, local stewardship.
+    The method can travel across borders; language, institutions, trusted sources, AI models, and data governance remain locally governed.
+5.  Action is the outcome.
+    Success is not a long conversation.
+    It is a completed task, a clearer next step, a safe handoff, greater capability, or a trusted human connection.

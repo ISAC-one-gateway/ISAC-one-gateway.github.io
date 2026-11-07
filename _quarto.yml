@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - lang.js
+    - lang-nav.js
+    - index.html
+    - home/index.html
+    - engine/index.html
+
+website:
+  title: "ISAC One Gateway"
+  navbar:
+    left:
+      - text: "Home"
+        href: home/index.html
+      - text: "Engine"
+        href: engine/index.html
+
+format:
+  html:
+    theme: lux
+    toc: true
+    include-after-body: lang-nav.html
