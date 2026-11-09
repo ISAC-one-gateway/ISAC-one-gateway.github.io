@@ -1,0 +1,23 @@
+---
+title: "ISAC One Gateway: About Us"
+---
+
+# About Us
+
+**Team Yadokari** est une collaboration internationale dans le domaine des technologies civiques, réunissant des contributeurs du Canada et du Japon.
+L’équipe développe des solutions technologiques centrées sur l’humain, dans le but de rendre les services gouvernementaux et les programmes de soutien public plus accessibles.
+
+**Mimi**, le projet phare de Team Yadokari, explore comment l’intelligence artificielle, les interfaces conversationnelles et les systèmes informatiques de politiques publiques peuvent réduire les obstacles entre les citoyens et les institutions publiques.
+
+## Members
+
+- Lucy
+- Yoshi
+- Mireille
+- Yas
+- Max
+- Ko
+- Jesse
+- Sahil
+- Shibu
+- Kii

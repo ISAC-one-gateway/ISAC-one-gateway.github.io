@@ -16,6 +16,8 @@ website:
         href: home/index.html
       - text: "Engine"
         href: engine/index.html
+      - text: "About Us"
+        href: about/index.html
 
 format:
   html:
