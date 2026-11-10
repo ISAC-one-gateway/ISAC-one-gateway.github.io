@@ -4,7 +4,7 @@ title: "ISAC One Gateway"
 
 # ようこそ
 
-ISAC One Gatewayは、ひとつのプロジェクトです。
+ISAC One Gatewayは、2026 台湾総統杯ハッカソン国際トラックの優秀チームから誕生したプロジェクトです。
 
 # 最新のプレスリリース
 

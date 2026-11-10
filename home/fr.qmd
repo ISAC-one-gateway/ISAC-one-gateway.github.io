@@ -4,7 +4,7 @@ title: "ISAC One Gateway"
 
 # Bienvenue
 
-ISAC One Gateway est un projet.
+ISAC One Gateway est un projet de Team Yadokari, lauréate du prix Team of Excellence dans la catégorie internationale du Taiwan Presidential Hackathon 2026.
 
 # Dernier communiqué de presse
 

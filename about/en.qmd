@@ -12,7 +12,7 @@ The team develops human-centered technology solutions aimed at making government
 ## Members
 
 - Lucy
-- Yoshi
+- Yoshi (Yoshihiko Baba)
 - Mireille
 - Yas
 - Max
@@ -21,3 +21,9 @@ The team develops human-centered technology solutions aimed at making government
 - Sahil
 - Shibu
 - Kii
+
+The order is at random.
+
+# 関連プロジェクト
+
+- [OpenFisca project](https://openfisca.org/en/)

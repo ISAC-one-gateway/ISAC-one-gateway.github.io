@@ -12,7 +12,7 @@ title: "ISAC One Gateway: About Us"
 ## メンバー
 
 - Lucy
-- 馬場美彦
+- Yoshi (馬場美彦)
 - Mireille
 - Yas
 - Max
@@ -21,3 +21,9 @@ title: "ISAC One Gateway: About Us"
 - Sahil
 - Shibu
 - Kii
+
+順不同。
+
+# 関連プロジェクト
+
+- [OpenFisca project](https://openfisca.org/en/)

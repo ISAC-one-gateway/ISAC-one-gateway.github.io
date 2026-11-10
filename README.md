@@ -30,3 +30,11 @@ However, for convenience, always keep English qmd as the latest.
 
 Maintain the contents in all the languages.
 Please use AI for the languages you are not familiar with.
+
+## Commit and Push
+
+Rendering recreates docs folder. Before you commit, create an empty file (docs/.nojekyll) or run:
+
+```
+touch docs/.nojekyll
+```
