@@ -6,6 +6,22 @@ title: "ISAC One Gateway"
 
 ISAC One Gatewayは、2026 台湾総統杯ハッカソン国際トラックの優秀チームから誕生したプロジェクトです。
 
+## Mimi
+
+<!-- div class="ratio ratio-16x9">
+  <iframe
+    src="https://www.youtube.com/embed/DB23HBd7zRg"
+    title="YouTube video player"
+    allowfullscreen>
+  </iframe>
+</div -->
+
+Mimi は、ISAC エンジンを使ったアプリケーションです。
+
+[Brochure](https://claude.ai/artifact/5HipxEPQgUdqgnjagyfBzA)
+
+[YouTube Channel](https://www.youtube.com/@Mimi-Isac-System)
+
 # 最新のプレスリリース
 
 日本とモントリオールのシビックテックのイノベーター、台湾の総統ハッカソンで名誉ある賞を受賞

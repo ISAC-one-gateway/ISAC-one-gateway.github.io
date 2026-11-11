@@ -6,6 +6,22 @@ title: "ISAC One Gateway"
 
 ISAC One Gateway est un projet de Team Yadokari, lauréate du prix Team of Excellence dans la catégorie internationale du Taiwan Presidential Hackathon 2026.
 
+## Mimi
+
+<!-- div class="ratio ratio-16x9">
+  <iframe
+    src="https://www.youtube.com/embed/DB23HBd7zRg"
+    title="YouTube video player"
+    allowfullscreen>
+  </iframe>
+</div -->
+
+Mimi est notre application basée sur le moteur ISAC.
+
+[Brochure](https://claude.ai/artifact/5HipxEPQgUdqgnjagyfBzA)
+
+[YouTube Channel](https://www.youtube.com/@Mimi-Isac-System)
+
 # Dernier communiqué de presse
 
 Des innovateurs japonais et montréalais en technologies civiques remportent un prestigieux prix au Hackathon présidentiel de Taïwan
