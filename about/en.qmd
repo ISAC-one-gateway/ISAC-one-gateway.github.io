@@ -24,6 +24,6 @@ The team develops human-centered technology solutions aimed at making government
 
 The order is at random.
 
-# 関連プロジェクト
+# Relevant Projects
 
 - [OpenFisca project](https://openfisca.org/en/)

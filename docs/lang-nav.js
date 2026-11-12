@@ -30,11 +30,12 @@
   select.style.marginLeft = "1rem";
 
   const languages = [
-    { code: "ja", label: "日本語" },
+    { code: "zh-TW", label: "繁體中文" },
     { code: "en", label: "English" },
-    { code: "fr", label: "Français" }
+    { code: "fr", label: "Français" },
+    { code: "ja", label: "日本語" }
   ];
-    // { code: "zh-TW", label: "繁體中文" }
+    // 
 
   languages.forEach(lang => {
     const option = document.createElement("option");

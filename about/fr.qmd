@@ -22,8 +22,8 @@ L’équipe développe des solutions technologiques centrées sur l’humain, da
 - Shibu
 - Kii
 
-The order is at random.
+L’ordre d’affichage est aléatoire.
 
-# The Relevant Projects
+# Projets connexes
 
 - [OpenFisca project](https://openfisca.org/fr/)

@@ -81,13 +81,6 @@ The 2026 awards ceremony is tentatively scheduled for December.
 
 For Team Yadokari, this international recognition represents an important step toward exploring new partnerships, evaluating practical deployment opportunities, and advancing the development of inclusive AI-enabled public services.
 
-### About Team Yadokari
-
-Team Yadokari is an international civic technology collaboration bringing together contributors from Canada and Japan.
-The team develops human-centered technology solutions aimed at making government services and public support programs more accessible.
-
-Its flagship project, Mimi, explores how artificial intelligence, conversational interfaces, and computational policy systems can reduce barriers between citizens and public institutions.
-
 Official announcement:
 
 * https://x.com/TaiwanHackathon/status/2117924790245941328

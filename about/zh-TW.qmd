@@ -1,0 +1,29 @@
+---
+title: "ISAC One Gateway: About Us"
+---
+
+# 關於我們
+
+**Team Yadokari** 是一個由加拿大與日本的成員共同組成的國際公民科技合作團隊。
+團隊致力於開發以人為本的科技解決方案，讓政府服務及公共支持計畫更容易被民眾取得與使用。
+
+**Mimi** 是 Team Yadokari 的旗艦專案，致力於探索如何運用人工智慧、對話式介面及運算政策系統，降低民眾與公共機構之間的接觸門檻，讓公共服務更加親近民眾。
+
+## 團隊成員
+
+- Lucy
+- Yoshi (Yoshihiko Baba)
+- Mireille
+- Yas
+- Max
+- Ko
+- Jesse
+- Sahil
+- Shibu
+- Kii
+
+顯示順序為隨機。
+
+# 相關專案
+
+- [OpenFisca project](https://openfisca.org/en/)

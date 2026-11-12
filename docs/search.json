@@ -1,24 +1,157 @@
 [
   {
-    "objectID": "engine/fr.html",
-    "href": "engine/fr.html",
+    "objectID": "engine/zh-TW.html",
+    "href": "engine/zh-TW.html",
     "title": "ISAC Engine",
     "section": "",
-    "text": "One Gateway, Many Trusted Services. Turning collective knowledge into real-world action.\n\n\nThe ISAC One Gateway Project is an international civic-tech initiative to build a shared life navigation infrastructure: a companion system that helps people move from “I don’t know what to do” to one achievable next step.\nDigital services, public information, civic-tech tools, and support organizations are multiplying. Yet more services also mean more entry points. People can still become lost between websites, applications, offices, professionals, and communities. We are not creating one more service. We are creating one understandable gateway to many trusted services.\n\n\n\n\nNo dead ends. Mimi may not solve every problem, but it should never end with “you are on your own.” It should help identify the next safe path.\nConnect, don’t replace. AI should help people reach trusted public services, civic-tech tools, communities, professionals, and supporters–not make every decision on their behalf.\nOpen participation, trusted review. Contribution should be broad. Knowledge, prompts, and components distributed as trusted ISAC One Gateway resources should pass appropriate review.\nShared core, local stewardship. The method can travel across borders; language, institutions, trusted sources, AI models, and data governance remain locally governed.\nAction is the outcome. Success is not a long conversation. It is a completed task, a clearer next step, a safe handoff, greater capability, or a trusted human connection."
+    "text": "一個入口，串聯多項值得信賴的服務。 將集體智慧轉化為實際行動。\n\n\nISAC One Gateway 計畫是一項國際公民科技倡議，旨在打造共享的生活導航基礎建設：一套陪伴與引導系統，協助人們從「不知道該怎麼辦」開始，找到下一個切實可行的行動步驟。\n數位服務、公共資訊、公民科技工具及各類支援組織正不斷增加。 然而，服務越多，也意味著入口越多。 人們仍可能在各種網站、應用程式、政府機關、專業人士及社群之間迷失方向。 我們不是要再創造一項新的服務。 我們要打造的是一個清楚易懂的入口，讓人們能夠連結各種值得信賴的服務。\n\n\n\n\n不讓任何人求助無門（No dead ends） Mimi 不一定能解決所有問題，但絕不應以「接下來只能靠你自己了」作為結尾。 它應協助使用者找到下一條安全、可行的途徑。\n串聯資源，而非取而代之（Connect, don’t replace） AI 應協助人們連結值得信賴的公共服務、公民科技工具、社群、專業人士及支持者，而不是代替人們做出所有決定。\n開放參與，可信審查（Open participation, trusted review） 我們歡迎廣泛參與及貢獻。 但凡是以可信賴的 ISAC One Gateway 資源形式提供的知識、提示詞及組件，都必須經過適當的審查。\n共享核心，在地治理（Shared core, local stewardship） 核心方法可以跨越國界，但語言、制度、可信賴的資訊來源、AI 模型及資料治理，仍應由各地自行管理。\n以實際行動為成果（Action is the outcome） 成功的標準不是一段冗長的對話。 而是完成一項任務、找到更明確的下一步、順利且安全地轉介至適當資源、提升個人能力，或建立值得信賴的人際連結。"
   },
   {
-    "objectID": "engine/fr.html#purpose",
-    "href": "engine/fr.html#purpose",
+    "objectID": "engine/zh-TW.html#計畫宗旨",
+    "href": "engine/zh-TW.html#計畫宗旨",
     "title": "ISAC Engine",
     "section": "",
-    "text": "The ISAC One Gateway Project is an international civic-tech initiative to build a shared life navigation infrastructure: a companion system that helps people move from “I don’t know what to do” to one achievable next step.\nDigital services, public information, civic-tech tools, and support organizations are multiplying. Yet more services also mean more entry points. People can still become lost between websites, applications, offices, professionals, and communities. We are not creating one more service. We are creating one understandable gateway to many trusted services."
+    "text": "ISAC One Gateway 計畫是一項國際公民科技倡議，旨在打造共享的生活導航基礎建設：一套陪伴與引導系統，協助人們從「不知道該怎麼辦」開始，找到下一個切實可行的行動步驟。\n數位服務、公共資訊、公民科技工具及各類支援組織正不斷增加。 然而，服務越多，也意味著入口越多。 人們仍可能在各種網站、應用程式、政府機關、專業人士及社群之間迷失方向。 我們不是要再創造一項新的服務。 我們要打造的是一個清楚易懂的入口，讓人們能夠連結各種值得信賴的服務。"
   },
   {
-    "objectID": "engine/fr.html#founding-principles",
-    "href": "engine/fr.html#founding-principles",
+    "objectID": "engine/zh-TW.html#創立原則",
+    "href": "engine/zh-TW.html#創立原則",
     "title": "ISAC Engine",
     "section": "",
-    "text": "No dead ends. Mimi may not solve every problem, but it should never end with “you are on your own.” It should help identify the next safe path.\nConnect, don’t replace. AI should help people reach trusted public services, civic-tech tools, communities, professionals, and supporters–not make every decision on their behalf.\nOpen participation, trusted review. Contribution should be broad. Knowledge, prompts, and components distributed as trusted ISAC One Gateway resources should pass appropriate review.\nShared core, local stewardship. The method can travel across borders; language, institutions, trusted sources, AI models, and data governance remain locally governed.\nAction is the outcome. Success is not a long conversation. It is a completed task, a clearer next step, a safe handoff, greater capability, or a trusted human connection."
+    "text": "不讓任何人求助無門（No dead ends） Mimi 不一定能解決所有問題，但絕不應以「接下來只能靠你自己了」作為結尾。 它應協助使用者找到下一條安全、可行的途徑。\n串聯資源，而非取而代之（Connect, don’t replace） AI 應協助人們連結值得信賴的公共服務、公民科技工具、社群、專業人士及支持者，而不是代替人們做出所有決定。\n開放參與，可信審查（Open participation, trusted review） 我們歡迎廣泛參與及貢獻。 但凡是以可信賴的 ISAC One Gateway 資源形式提供的知識、提示詞及組件，都必須經過適當的審查。\n共享核心，在地治理（Shared core, local stewardship） 核心方法可以跨越國界，但語言、制度、可信賴的資訊來源、AI 模型及資料治理，仍應由各地自行管理。\n以實際行動為成果（Action is the outcome） 成功的標準不是一段冗長的對話。 而是完成一項任務、找到更明確的下一步、順利且安全地轉介至適當資源、提升個人能力，或建立值得信賴的人際連結。"
+  },
+  {
+    "objectID": "engine/ja.html",
+    "href": "engine/ja.html",
+    "title": "ISAC Engine",
+    "section": "",
+    "text": "One Gateway, Many Trusted Services. 集合知を、現実世界の行動へ。\n\n\nISAC One Gateway Projectは、共有された「生活・人生のナビゲーション基盤」を構築する国際的なシビックテックの取り組みである。目指すのは、「どうすればよいかわからない」状態から、実行可能な次の一歩へ進むことを支える伴走者システムである。\nデジタルサービス、公的情報、シビックテック・ツール、支援団体は増え続けている。 しかし、サービスが増えるほど入口も増える。 人々は、ウェブサイト、アプリ、窓口、専門職、地域コミュニティの間で迷い続けることがある。 私たちは、もう一つサービスを増やすのではない。 たくさんの信頼できるサービスにつながる、ひとつの分かりやすい入口をつくる。\n\n\n\n\n行き止まりをつくらない。 Mimiはすべての問題を解決できるわけではない。 しかし、「あとは自分で」と終わらせず、次の安全な道を一緒に見つける。\nつなぐ、置き換えない。 AIの役割は、信頼できる公共サービス、シビックテック、地域コミュニティ、専門職、支援者へ人をつなぐことであり、すべてを代わりに決めることではない。\n参加は開く、信頼はレビューで守る。 参加の入口は広く開く。 一方、信頼できるISAC One Gatewayの知識、プロンプト、構成要素として配布するものは、適切なレビューを経る。\nコアを共有し、地域で担う。 方法は国境を越えて共有できるが、言語、制度、信頼できる情報源、AIモデル、データガバナンスは各地域が担う。\n成果は「行動」で測る。 成功とは長く会話することではない。 タスクの完了、明確な次の一歩、安全な引継ぎ、能力の向上、信頼できる人との接続である。"
+  },
+  {
+    "objectID": "engine/ja.html#目的",
+    "href": "engine/ja.html#目的",
+    "title": "ISAC Engine",
+    "section": "",
+    "text": "ISAC One Gateway Projectは、共有された「生活・人生のナビゲーション基盤」を構築する国際的なシビックテックの取り組みである。目指すのは、「どうすればよいかわからない」状態から、実行可能な次の一歩へ進むことを支える伴走者システムである。\nデジタルサービス、公的情報、シビックテック・ツール、支援団体は増え続けている。 しかし、サービスが増えるほど入口も増える。 人々は、ウェブサイト、アプリ、窓口、専門職、地域コミュニティの間で迷い続けることがある。 私たちは、もう一つサービスを増やすのではない。 たくさんの信頼できるサービスにつながる、ひとつの分かりやすい入口をつくる。"
+  },
+  {
+    "objectID": "engine/ja.html#基本原則",
+    "href": "engine/ja.html#基本原則",
+    "title": "ISAC Engine",
+    "section": "",
+    "text": "行き止まりをつくらない。 Mimiはすべての問題を解決できるわけではない。 しかし、「あとは自分で」と終わらせず、次の安全な道を一緒に見つける。\nつなぐ、置き換えない。 AIの役割は、信頼できる公共サービス、シビックテック、地域コミュニティ、専門職、支援者へ人をつなぐことであり、すべてを代わりに決めることではない。\n参加は開く、信頼はレビューで守る。 参加の入口は広く開く。 一方、信頼できるISAC One Gatewayの知識、プロンプト、構成要素として配布するものは、適切なレビューを経る。\nコアを共有し、地域で担う。 方法は国境を越えて共有できるが、言語、制度、信頼できる情報源、AIモデル、データガバナンスは各地域が担う。\n成果は「行動」で測る。 成功とは長く会話することではない。 タスクの完了、明確な次の一歩、安全な引継ぎ、能力の向上、信頼できる人との接続である。"
+  },
+  {
+    "objectID": "about/zh-TW.html",
+    "href": "about/zh-TW.html",
+    "title": "ISAC One Gateway: About Us",
+    "section": "",
+    "text": "Team Yadokari 是一個由加拿大與日本的成員共同組成的國際公民科技合作團隊。 團隊致力於開發以人為本的科技解決方案，讓政府服務及公共支持計畫更容易被民眾取得與使用。\nMimi 是 Team Yadokari 的旗艦專案，致力於探索如何運用人工智慧、對話式介面及運算政策系統，降低民眾與公共機構之間的接觸門檻，讓公共服務更加親近民眾。\n\n\n\nLucy\nYoshi (Yoshihiko Baba)\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\n顯示順序為隨機。"
+  },
+  {
+    "objectID": "about/zh-TW.html#團隊成員",
+    "href": "about/zh-TW.html#團隊成員",
+    "title": "ISAC One Gateway: About Us",
+    "section": "",
+    "text": "Lucy\nYoshi (Yoshihiko Baba)\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\n顯示順序為隨機。"
+  },
+  {
+    "objectID": "about/ja.html",
+    "href": "about/ja.html",
+    "title": "ISAC One Gateway: About Us",
+    "section": "",
+    "text": "Team Yadokari は、日本とカナダのメンバーから構成される国際シビックテック団体です。 チームは、公的サービスや公的サポートをより使いやすくする人間中心のテクノロジー開発を行っています。\nMimi は、チームの代表プロジェクトで、AI と対話と政策システムで人と公共機関の障害を取り除く方法を模索しています。\n\n\n\nLucy\nYoshi (馬場美彦)\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\n順不同。"
+  },
+  {
+    "objectID": "about/ja.html#メンバー",
+    "href": "about/ja.html#メンバー",
+    "title": "ISAC One Gateway: About Us",
+    "section": "",
+    "text": "Lucy\nYoshi (馬場美彦)\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\n順不同。"
+  },
+  {
+    "objectID": "home/zh-TW.html",
+    "href": "home/zh-TW.html",
+    "title": "ISAC One Gateway",
+    "section": "",
+    "text": "ISAC One Gateway 是 Team Yadokari 的專案。Team Yadokari 榮獲 2026 年台灣總統盃黑客松國際組「卓越團隊」殊榮。\n\n\n\nMimi 是我們基於 ISAC 引擎所開發的應用程式。\nBrochure\nYouTube Channel"
+  },
+  {
+    "objectID": "home/zh-TW.html#mimi",
+    "href": "home/zh-TW.html#mimi",
+    "title": "ISAC One Gateway",
+    "section": "",
+    "text": "Mimi 是我們基於 ISAC 引擎所開發的應用程式。\nBrochure\nYouTube Channel"
+  },
+  {
+    "objectID": "home/ja.html",
+    "href": "home/ja.html",
+    "title": "ISAC One Gateway",
+    "section": "",
+    "text": "ISAC One Gatewayは、2026 台湾総統杯ハッカソン国際トラックの優秀チームから誕生したプロジェクトです。\n\n\n\nMimi は、ISAC エンジンを使ったアプリケーションです。\nBrochure\nYouTube Channel"
+  },
+  {
+    "objectID": "home/ja.html#mimi",
+    "href": "home/ja.html#mimi",
+    "title": "ISAC One Gateway",
+    "section": "",
+    "text": "Mimi は、ISAC エンジンを使ったアプリケーションです。\nBrochure\nYouTube Channel"
+  },
+  {
+    "objectID": "home/en.html",
+    "href": "home/en.html",
+    "title": "ISAC One Gateway",
+    "section": "",
+    "text": "ISAC One Gateway is a peoject by Team Yadokari, a 2026 Taiwan Presidential Hackathon International Track Team of Excellence.\n\n\n\nMimi is our application based on ISAC engine.\nBrochure\nYouTube Channel"
+  },
+  {
+    "objectID": "home/en.html#mimi",
+    "href": "home/en.html#mimi",
+    "title": "ISAC One Gateway",
+    "section": "",
+    "text": "Mimi is our application based on ISAC engine.\nBrochure\nYouTube Channel"
+  },
+  {
+    "objectID": "home/fr.html",
+    "href": "home/fr.html",
+    "title": "ISAC One Gateway",
+    "section": "",
+    "text": "ISAC One Gateway est un projet de Team Yadokari, lauréate du prix Team of Excellence dans la catégorie internationale du Taiwan Presidential Hackathon 2026.\n\n\n\nMimi est notre application basée sur le moteur ISAC.\nBrochure\nYouTube Channel"
+  },
+  {
+    "objectID": "home/fr.html#mimi",
+    "href": "home/fr.html#mimi",
+    "title": "ISAC One Gateway",
+    "section": "",
+    "text": "Mimi est notre application basée sur le moteur ISAC.\nBrochure\nYouTube Channel"
+  },
+  {
+    "objectID": "about/en.html",
+    "href": "about/en.html",
+    "title": "ISAC One Gateway: About Us",
+    "section": "",
+    "text": "Team Yadokari is an international civic technology collaboration bringing together contributors from Canada and Japan. The team develops human-centered technology solutions aimed at making government services and public support programs more accessible.\nMimi, the flagship project of Team Yadokari, explores how artificial intelligence, conversational interfaces, and computational policy systems can reduce barriers between citizens and public institutions.\n\n\n\nLucy\nYoshi (Yoshihiko Baba)\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\nThe order is at random."
+  },
+  {
+    "objectID": "about/en.html#members",
+    "href": "about/en.html#members",
+    "title": "ISAC One Gateway: About Us",
+    "section": "",
+    "text": "Lucy\nYoshi (Yoshihiko Baba)\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\nThe order is at random."
+  },
+  {
+    "objectID": "about/fr.html",
+    "href": "about/fr.html",
+    "title": "ISAC One Gateway: About Us",
+    "section": "",
+    "text": "Team Yadokari est une collaboration internationale dans le domaine des technologies civiques, réunissant des contributeurs du Canada et du Japon. L’équipe développe des solutions technologiques centrées sur l’humain, dans le but de rendre les services gouvernementaux et les programmes de soutien public plus accessibles.\nMimi, le projet phare de Team Yadokari, explore comment l’intelligence artificielle, les interfaces conversationnelles et les systèmes informatiques de politiques publiques peuvent réduire les obstacles entre les citoyens et les institutions publiques.\n\n\n\nLucy\nYoshi\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\nL’ordre d’affichage est aléatoire."
+  },
+  {
+    "objectID": "about/fr.html#members",
+    "href": "about/fr.html#members",
+    "title": "ISAC One Gateway: About Us",
+    "section": "",
+    "text": "Lucy\nYoshi\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\nL’ordre d’affichage est aléatoire."
   },
   {
     "objectID": "engine/en.html",
@@ -42,108 +175,24 @@
     "text": "No dead ends. Mimi may not solve every problem, but it should never end with “you are on your own.” It should help identify the next safe path.\nConnect, don’t replace. AI should help people reach trusted public services, civic-tech tools, communities, professionals, and supporters–not make every decision on their behalf.\nOpen participation, trusted review. Contribution should be broad. Knowledge, prompts, and components distributed as trusted ISAC One Gateway resources should pass appropriate review.\nShared core, local stewardship. The method can travel across borders; language, institutions, trusted sources, AI models, and data governance remain locally governed.\nAction is the outcome. Success is not a long conversation. It is a completed task, a clearer next step, a safe handoff, greater capability, or a trusted human connection."
   },
   {
-    "objectID": "about/ja.html",
-    "href": "about/ja.html",
-    "title": "ISAC One Gateway: About Us",
-    "section": "",
-    "text": "Team Yadokari は、日本とカナダのメンバーから構成される国際シビックテック団体です。 チームは、公的サービスや公的サポートをより使いやすくする人間中心のテクノロジー開発を行っています。\nMimi は、チームの代表プロジェクトで、AI と対話と政策システムで人と公共機関の障害を取り除く方法を模索しています。\n\n\n\nLucy\nYoshi (馬場美彦)\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\n順不同。"
-  },
-  {
-    "objectID": "about/ja.html#メンバー",
-    "href": "about/ja.html#メンバー",
-    "title": "ISAC One Gateway: About Us",
-    "section": "",
-    "text": "Lucy\nYoshi (馬場美彦)\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\n順不同。"
-  },
-  {
-    "objectID": "home/fr.html",
-    "href": "home/fr.html",
-    "title": "ISAC One Gateway",
-    "section": "",
-    "text": "ISAC One Gateway est un projet de Team Yadokari, lauréate du prix Team of Excellence dans la catégorie internationale du Taiwan Presidential Hackathon 2026.\n\n\n\nMimi est notre application basée sur le moteur ISAC.\nBrochure\nYouTube Channel"
-  },
-  {
-    "objectID": "home/fr.html#mimi",
-    "href": "home/fr.html#mimi",
-    "title": "ISAC One Gateway",
-    "section": "",
-    "text": "Mimi est notre application basée sur le moteur ISAC.\nBrochure\nYouTube Channel"
-  },
-  {
-    "objectID": "home/en.html",
-    "href": "home/en.html",
-    "title": "ISAC One Gateway",
-    "section": "",
-    "text": "ISAC One Gateway is a peoject by Team Yadokari, a 2026 Taiwan Presidential Hackathon International Track Team of Excellence.\n\n\n\nMimi is our application based on ISAC engine.\nBrochure\nYouTube Channel"
-  },
-  {
-    "objectID": "home/en.html#mimi",
-    "href": "home/en.html#mimi",
-    "title": "ISAC One Gateway",
-    "section": "",
-    "text": "Mimi is our application based on ISAC engine.\nBrochure\nYouTube Channel"
-  },
-  {
-    "objectID": "home/ja.html",
-    "href": "home/ja.html",
-    "title": "ISAC One Gateway",
-    "section": "",
-    "text": "ISAC One Gatewayは、2026 台湾総統杯ハッカソン国際トラックの優秀チームから誕生したプロジェクトです。\n\n\n\nMimi は、ISAC エンジンを使ったアプリケーションです。\nBrochure\nYouTube Channel"
-  },
-  {
-    "objectID": "home/ja.html#mimi",
-    "href": "home/ja.html#mimi",
-    "title": "ISAC One Gateway",
-    "section": "",
-    "text": "Mimi は、ISAC エンジンを使ったアプリケーションです。\nBrochure\nYouTube Channel"
-  },
-  {
-    "objectID": "about/en.html",
-    "href": "about/en.html",
-    "title": "ISAC One Gateway: About Us",
-    "section": "",
-    "text": "Team Yadokari is an international civic technology collaboration bringing together contributors from Canada and Japan. The team develops human-centered technology solutions aimed at making government services and public support programs more accessible.\nMimi, the flagship project of Team Yadokari, explores how artificial intelligence, conversational interfaces, and computational policy systems can reduce barriers between citizens and public institutions.\n\n\n\nLucy\nYoshi (Yoshihiko Baba)\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\nThe order is at random."
-  },
-  {
-    "objectID": "about/en.html#members",
-    "href": "about/en.html#members",
-    "title": "ISAC One Gateway: About Us",
-    "section": "",
-    "text": "Lucy\nYoshi (Yoshihiko Baba)\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\nThe order is at random."
-  },
-  {
-    "objectID": "about/fr.html",
-    "href": "about/fr.html",
-    "title": "ISAC One Gateway: About Us",
-    "section": "",
-    "text": "Team Yadokari est une collaboration internationale dans le domaine des technologies civiques, réunissant des contributeurs du Canada et du Japon. L’équipe développe des solutions technologiques centrées sur l’humain, dans le but de rendre les services gouvernementaux et les programmes de soutien public plus accessibles.\nMimi, le projet phare de Team Yadokari, explore comment l’intelligence artificielle, les interfaces conversationnelles et les systèmes informatiques de politiques publiques peuvent réduire les obstacles entre les citoyens et les institutions publiques.\n\n\n\nLucy\nYoshi\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\nThe order is at random."
-  },
-  {
-    "objectID": "about/fr.html#members",
-    "href": "about/fr.html#members",
-    "title": "ISAC One Gateway: About Us",
-    "section": "",
-    "text": "Lucy\nYoshi\nMireille\nYas\nMax\nKo\nJesse\nSahil\nShibu\nKii\n\nThe order is at random."
-  },
-  {
-    "objectID": "engine/ja.html",
-    "href": "engine/ja.html",
+    "objectID": "engine/fr.html",
+    "href": "engine/fr.html",
     "title": "ISAC Engine",
     "section": "",
-    "text": "One Gateway, Many Trusted Services. 集合知を、現実世界の行動へ。\n\n\nISAC One Gateway Projectは、共有された「生活・人生のナビゲーション基盤」を構築する国際的なシビックテックの取り組みである。目指すのは、「どうすればよいかわからない」状態から、実行可能な次の一歩へ進むことを支える伴走者システムである。\nデジタルサービス、公的情報、シビックテック・ツール、支援団体は増え続けている。 しかし、サービスが増えるほど入口も増える。 人々は、ウェブサイト、アプリ、窓口、専門職、地域コミュニティの間で迷い続けることがある。 私たちは、もう一つサービスを増やすのではない。 たくさんの信頼できるサービスにつながる、ひとつの分かりやすい入口をつくる。\n\n\n\n\n行き止まりをつくらない。 Mimiはすべての問題を解決できるわけではない。 しかし、「あとは自分で」と終わらせず、次の安全な道を一緒に見つける。\nつなぐ、置き換えない。 AIの役割は、信頼できる公共サービス、シビックテック、地域コミュニティ、専門職、支援者へ人をつなぐことであり、すべてを代わりに決めることではない。\n参加は開く、信頼はレビューで守る。 参加の入口は広く開く。 一方、信頼できるISAC One Gatewayの知識、プロンプト、構成要素として配布するものは、適切なレビューを経る。\nコアを共有し、地域で担う。 方法は国境を越えて共有できるが、言語、制度、信頼できる情報源、AIモデル、データガバナンスは各地域が担う。\n成果は「行動」で測る。 成功とは長く会話することではない。 タスクの完了、明確な次の一歩、安全な引継ぎ、能力の向上、信頼できる人との接続である。"
+    "text": "One Gateway, Many Trusted Services. Turning collective knowledge into real-world action.\n\n\nThe ISAC One Gateway Project is an international civic-tech initiative to build a shared life navigation infrastructure: a companion system that helps people move from “I don’t know what to do” to one achievable next step.\nDigital services, public information, civic-tech tools, and support organizations are multiplying. Yet more services also mean more entry points. People can still become lost between websites, applications, offices, professionals, and communities. We are not creating one more service. We are creating one understandable gateway to many trusted services.\n\n\n\n\nNo dead ends. Mimi may not solve every problem, but it should never end with “you are on your own.” It should help identify the next safe path.\nConnect, don’t replace. AI should help people reach trusted public services, civic-tech tools, communities, professionals, and supporters–not make every decision on their behalf.\nOpen participation, trusted review. Contribution should be broad. Knowledge, prompts, and components distributed as trusted ISAC One Gateway resources should pass appropriate review.\nShared core, local stewardship. The method can travel across borders; language, institutions, trusted sources, AI models, and data governance remain locally governed.\nAction is the outcome. Success is not a long conversation. It is a completed task, a clearer next step, a safe handoff, greater capability, or a trusted human connection."
   },
   {
-    "objectID": "engine/ja.html#目的",
-    "href": "engine/ja.html#目的",
+    "objectID": "engine/fr.html#purpose",
+    "href": "engine/fr.html#purpose",
     "title": "ISAC Engine",
     "section": "",
-    "text": "ISAC One Gateway Projectは、共有された「生活・人生のナビゲーション基盤」を構築する国際的なシビックテックの取り組みである。目指すのは、「どうすればよいかわからない」状態から、実行可能な次の一歩へ進むことを支える伴走者システムである。\nデジタルサービス、公的情報、シビックテック・ツール、支援団体は増え続けている。 しかし、サービスが増えるほど入口も増える。 人々は、ウェブサイト、アプリ、窓口、専門職、地域コミュニティの間で迷い続けることがある。 私たちは、もう一つサービスを増やすのではない。 たくさんの信頼できるサービスにつながる、ひとつの分かりやすい入口をつくる。"
+    "text": "The ISAC One Gateway Project is an international civic-tech initiative to build a shared life navigation infrastructure: a companion system that helps people move from “I don’t know what to do” to one achievable next step.\nDigital services, public information, civic-tech tools, and support organizations are multiplying. Yet more services also mean more entry points. People can still become lost between websites, applications, offices, professionals, and communities. We are not creating one more service. We are creating one understandable gateway to many trusted services."
   },
   {
-    "objectID": "engine/ja.html#基本原則",
-    "href": "engine/ja.html#基本原則",
+    "objectID": "engine/fr.html#founding-principles",
+    "href": "engine/fr.html#founding-principles",
     "title": "ISAC Engine",
     "section": "",
-    "text": "行き止まりをつくらない。 Mimiはすべての問題を解決できるわけではない。 しかし、「あとは自分で」と終わらせず、次の安全な道を一緒に見つける。\nつなぐ、置き換えない。 AIの役割は、信頼できる公共サービス、シビックテック、地域コミュニティ、専門職、支援者へ人をつなぐことであり、すべてを代わりに決めることではない。\n参加は開く、信頼はレビューで守る。 参加の入口は広く開く。 一方、信頼できるISAC One Gatewayの知識、プロンプト、構成要素として配布するものは、適切なレビューを経る。\nコアを共有し、地域で担う。 方法は国境を越えて共有できるが、言語、制度、信頼できる情報源、AIモデル、データガバナンスは各地域が担う。\n成果は「行動」で測る。 成功とは長く会話することではない。 タスクの完了、明確な次の一歩、安全な引継ぎ、能力の向上、信頼できる人との接続である。"
+    "text": "No dead ends. Mimi may not solve every problem, but it should never end with “you are on your own.” It should help identify the next safe path.\nConnect, don’t replace. AI should help people reach trusted public services, civic-tech tools, communities, professionals, and supporters–not make every decision on their behalf.\nOpen participation, trusted review. Contribution should be broad. Knowledge, prompts, and components distributed as trusted ISAC One Gateway resources should pass appropriate review.\nShared core, local stewardship. The method can travel across borders; language, institutions, trusted sources, AI models, and data governance remain locally governed.\nAction is the outcome. Success is not a long conversation. It is a completed task, a clearer next step, a safe handoff, greater capability, or a trusted human connection."
   }
 ]
