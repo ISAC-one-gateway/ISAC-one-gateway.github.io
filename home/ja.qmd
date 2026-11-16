@@ -18,7 +18,9 @@ ISAC One Gatewayは、2026 台湾総統杯ハッカソン国際トラックの�
 
 Mimi は、ISAC エンジンを使ったアプリケーションです。
 
-[Brochure](https://claude.ai/artifact/5HipxEPQgUdqgnjagyfBzA)
+[Mimi Demo](https://mimi.dawka.workers.dev/) このバージョンで話すのは、英語とフランス語のみです。
+
+[Brochure by Calude](https://claude.ai/artifact/5HipxEPQgUdqgnjagyfBzA) | [Brochure by ChatGPT](https://mimi-together.maxoe.chatgpt.site/?lang=ja#experience)
 
 [YouTube Channel](https://www.youtube.com/@Mimi-Isac-System)
 

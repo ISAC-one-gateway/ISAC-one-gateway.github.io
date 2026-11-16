@@ -18,7 +18,9 @@ ISAC One Gateway 是 Team Yadokari 的專案。Team Yadokari 榮獲 2026 年台�
 
 Mimi 是我們基於 ISAC 引擎所開發的應用程式。
 
-[Brochure](https://claude.ai/artifact/5HipxEPQgUdqgnjagyfBzA)
+[Mimi Demo](https://mimi.dawka.workers.dev/) 此版本僅支援英語或法語。
+
+[Brochure by Calude](https://claude.ai/artifact/5HipxEPQgUdqgnjagyfBzA) | [Brochure by ChatGPT](https://mimi-together.maxoe.chatgpt.site/?lang=ja#experience)
 
 [YouTube Channel](https://www.youtube.com/@Mimi-Isac-System)
 

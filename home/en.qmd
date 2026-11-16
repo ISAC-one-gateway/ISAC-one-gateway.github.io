@@ -4,7 +4,7 @@ title: "ISAC One Gateway"
 
 # Welcome
 
-ISAC One Gateway is a peoject by Team Yadokari, a 2026 Taiwan Presidential Hackathon International Track Team of Excellence.
+ISAC One Gateway is a project by Team Yadokari, a 2026 Taiwan Presidential Hackathon International Track Team of Excellence.
 
 ## Mimi
 
@@ -18,7 +18,9 @@ ISAC One Gateway is a peoject by Team Yadokari, a 2026 Taiwan Presidential Hacka
 
 Mimi is our application based on ISAC engine.
 
-[Brochure](https://claude.ai/artifact/5HipxEPQgUdqgnjagyfBzA)
+[Mimi Demo](https://mimi.dawka.workers.dev/) This version speaks only English or French.
+
+[Brochure by Calude](https://claude.ai/artifact/5HipxEPQgUdqgnjagyfBzA) | [Brochure by ChatGPT](https://mimi-together.maxoe.chatgpt.site/?lang=ja#experience)
 
 [YouTube Channel](https://www.youtube.com/@Mimi-Isac-System)
 
