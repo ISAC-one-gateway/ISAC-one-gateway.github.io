@@ -6,6 +6,11 @@ title: "ISAC One Gateway"
 
 ISAC One Gateway 是 Team Yadokari 的專案。Team Yadokari 榮獲 2026 年台灣總統盃黑客松國際組「卓越團隊」殊榮。
 
+## 新聞稿
+
+- [Un doctorant de l'ENAP parmi les lauréats du Presidential Hackathon 2026 à Taïwan](https://enap.ca/nouvelles/doctorant-enap-parmi-laureats-presidential-hackathon-2026-a-taiwan) by École nationale d'administration publique
+- [「高齢者向けAI」を開発した国際チームが台湾総統杯ハッカソンで優秀賞を受賞しました](https://www.tmig.or.jp/research/news/nid00001574.html) by 東京都健康長寿医療センター研究所
+
 ## Mimi
 
 <!-- div class="ratio ratio-16x9">
